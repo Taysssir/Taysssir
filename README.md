@@ -30,7 +30,7 @@ Tools I use:
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="jenkins" height="40"/>  
   
     
   </p>
