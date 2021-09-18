@@ -21,6 +21,8 @@ Tools I use:
 
   <p align="center">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" height="35"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" height="40"/> 
@@ -31,9 +33,9 @@ Tools I use:
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="jenkins" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/>  
   
     
   </p>
