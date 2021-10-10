@@ -28,14 +28,17 @@ Tools I use:
     <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="jenkins" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/>  
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/>  
+
   
     
   </p>
