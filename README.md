@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on **Robustness and Autonomous Robotics**
-- 🌱 I’m currently learning and improving skills **ML, IA & Computer Vision**
+- 🌱 I’m currently learning and improving **DevOps** skills
 - 📫 How to reach me **taysir.boubaker2082@gmail.com**
 
 
